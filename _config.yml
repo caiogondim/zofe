@@ -3,3 +3,4 @@ permalink: /posts/:title/
 url: http://zofe.com.br
 auto: true
 server: true
+markdown: maruku
